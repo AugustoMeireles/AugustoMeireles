@@ -4,7 +4,7 @@ subtitle: "Apresentações e jogos"
 author: "Augusto Meireles"
 avatar: "img/authors/augusto.png"
 image: "img/d.jpg"
-date:   2019-08-18 12:00:00
+date:   2019-08-18 14:50:00
 ---
 
 ### Projeto
@@ -15,6 +15,10 @@ A matemática é muitas vezes ensinada na escola apenas como uma disciplina de m
 <p style="text-align: justify;">
  A utilização de metodologias alternativas favorece o aprendizado de Matemática (D'ambrósio, U., [4]) e nesse sentido o uso de atividades lúdicas desperta no aluno o interesse pela matéria, especialmente, os desafios, como afirma Lima, E. L. [5]: “A Matemática é ainda um grande desafio, tanto do ponto de vista lúdico, que a tornou popular desde tempos imemoriais, com seus problemas folclóricos, como na disputa eterna entre o matemático e a verdade oculta sob várias formas.” Com isso, atividades lúdicas podem ser usadas para incentivar o aluno a imaginar, formular e testar algumas hipóteses, tentar generalizações, enfim, construir o seu conhecimento. 
 </p>
+
+### Conheça nosso projeto
+[Conheça nosso Instagram](https://www.instagram.com/desafios_matematica/?hl=pt-br)
+[Inscreva sua escola](https://docs.google.com/forms/d/1cC2ccp4hyLLKxraOh9BKV8dsJZzbDLMcgmgxdADL3xI/viewform?edit_requested=true)
 
 ### Membros
 
