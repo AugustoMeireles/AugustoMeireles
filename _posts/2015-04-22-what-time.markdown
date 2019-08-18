@@ -1,105 +1,293 @@
 ---
 title:  "Músicas"
 subtitle: ""
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+author: "Augusto Meireles"
+avatar: "img/authors/augusto.png"
 image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+date:   2019-08-18 14:30:00
 ---
 
 ### Músicas
-
+<p style="text-align: justify;">
+  Escolhi algumas músicas que gosto e coloquei nessa lista, bom, só coloquei de duas bandas se não nunca iria terminar
+  </p>
 ### Biquini Cavadão
+<p style="text-align: justify;">
 A Saudade é o Museu do Amor
+  </p>
+<p style="text-align: justify;">
 Aqui Dentro
+  </p>
+<p style="text-align: justify;">
 Arco-Íris
+  </p>
+<p style="text-align: justify;">
 Arcos
+  </p>
+<p style="text-align: justify;">
 Beijar Sem Fim
+  </p>
+<p style="text-align: justify;">
 Bem Vindo Ao Mundo Adulto
+  </p>
+<p style="text-align: justify;">
 BoquiabertoCadela Pornográfica
+  </p>
+<p style="text-align: justify;">
 Cai Água, Cai Barraco
+  </p>
+<p style="text-align: justify;">
 Coragem
+  </p>
+<p style="text-align: justify;">
 Coronel
+  </p>
+<p style="text-align: justify;">
 Dançar Pra Não Dançar
+  </p>
+<p style="text-align: justify;">
 Dani
+  </p>
+<p style="text-align: justify;">
 Descivilização
+  </p>
+<p style="text-align: justify;">
 Descobrimentos
-DomingoEm Algum Lugar No Tempo
+  </p>
+<p style="text-align: justify;">
+Domingo
+</p>
+<p style="text-align: justify;">
+Em Algum Lugar No Tempo
+  </p>
+<p style="text-align: justify;">
 Entre Beijos e Mais Beijos
+  </p>
+<p style="text-align: justify;">
 Escola
+  </p>
+<p style="text-align: justify;">
 Escuta Aqui
+  </p>
+<p style="text-align: justify;">
 Goiatuba
+</p>
+<p style="text-align: justify;">
 Ida e Volta
+  </p>
+<p style="text-align: justify;">
 Impossível
+  </p>
+<p style="text-align: justify;">
 Inseguro de Vida
+  </p>
+<p style="text-align: justify;">
 Janaína
+</p>
+<p style="text-align: justify;">
 Múmias
+  </p>
+<p style="text-align: justify;">
 No Mesmo Lugar
+  </p>
+<p style="text-align: justify;">
 No Mundo da Lua
+  </p>
+<p style="text-align: justify;">
 Nossa Diferença de Idade
+  </p>
+<p style="text-align: justify;">
 Para Sempre, Seu Maior Amor
+  </p>
+<p style="text-align: justify;">
 Pequeno Romance
+  </p>
+<p style="text-align: justify;">
 Quando Eu Te Encontrar
+  </p>
+<p style="text-align: justify;">
 Quanto Tempo Demora Um Mês
+  </p>
+<p style="text-align: justify;">
 Roda Gigante
+  </p>
+<p style="text-align: justify;">
 Sabor do Sol
+  </p>
+<p style="text-align: justify;">
 Soltos Pelo Ar
+  </p>
+<p style="text-align: justify;">
 Tédio
+  </p>
+<p style="text-align: justify;">
 Teoria
+  </p>
+<p style="text-align: justify;">
 Timidez
+  </p>
+<p style="text-align: justify;">
 Um Rio Sempre Beija o Mar
+  </p>
+<p style="text-align: justify;">
 Vento Ventania
+  </p>
+<p style="text-align: justify;">
 Zé Ninguém
-
+  </p>
+  
 ### Engenheiros do hawaii
+<p style="text-align: justify;">
 3 X 4
+  </p>
+<p style="text-align: justify;">
 3ª Do Plural
+  </p>
+<p style="text-align: justify;">
 a Promessa
+  </p>
+<p style="text-align: justify;">
 A Revolta Dos Dândis I
+  </p>
+<p style="text-align: justify;">
 a Revolta Dos Dândis Ii
+  </p>
+<p style="text-align: justify;">
 a Verdade a Ver Navios
+  </p>
+<p style="text-align: justify;">
 a Violência Travestida Faz Seu Trottoir
+  </p>
+<p style="text-align: justify;">
 Além Dos Outdoors
+  </p>
+<p style="text-align: justify;">
 Algo Por Você
+  </p>
+<p style="text-align: justify;">
 Alívio Imediato
+  </p>
+<p style="text-align: justify;">
 Ando Só
+  </p>
+<p style="text-align: justify;">
 Anoiteceu Em Porto Alegre
+  </p>
+<p style="text-align: justify;">
 Armas Químicas E Poemas
+  </p>
+<p style="text-align: justify;">
 Às Vezes Nunca
+  </p>
+<p style="text-align: justify;">
 Até O Fim
+  </p>
+<p style="text-align: justify;">
 Chuva De Containers
+  </p>
+<p style="text-align: justify;">
 Depois De Nós
+  </p>
+<p style="text-align: justify;">
 Dom Quixote
+  </p>
+<p style="text-align: justify;">
 Era Um Garoto Que Como Eu
+  </p>
+<p style="text-align: justify;">
 Eu Ligo Pra Você
+  </p>
+<p style="text-align: justify;">
 Eu Que Não Amo Você
+  </p>
+<p style="text-align: justify;">
 Exército De Um Homem Só
+  </p>
+<p style="text-align: justify;">
 Exército De Um Homem Só Ii
+  </p>
+<p style="text-align: justify;">
 Fé Nenhuma
+  </p>
+<p style="text-align: justify;">
 Filmes De Guerra, Canções De Amor
+  </p>
+<p style="text-align: justify;">
 Infinita Highway
+  </p>
+<p style="text-align: justify;">
 Longe Demais Das Capitais
+  </p>
+<p style="text-align: justify;">
 Muros & Grades
+  </p>
+<p style="text-align: justify;">
 Museu De Cera
+  </p>
+<p style="text-align: justify;">
 Números
+  </p>
+<p style="text-align: justify;">
 O Preço
+  </p>
+<p style="text-align: justify;">
 Olhos Iguais Aos Seus
+  </p>
+<p style="text-align: justify;">
 Os Guardas da Fronteira
+  </p>
+<p style="text-align: justify;">
 Ouça O Que Eu Digo: Não Ouça Ninguém
+  </p>
+<p style="text-align: justify;">
 Outras Frequências
+  </p>
+<p style="text-align: justify;">
 Parabólica
+  </p>
+<p style="text-align: justify;">
 Perfeita Simetria
+  </p>
+<p style="text-align: justify;">
 Piano Bar
+  </p>
+<p style="text-align: justify;">
 Pose
+  </p>
+<p style="text-align: justify;">
 Quando O Carnaval Chegar
+  </p>
+<p style="text-align: justify;">
 Quem Tem Pressa Não Se Interessa
+  </p>
+<p style="text-align: justify;">
 Rádio Pirata
+  </p>
+<p style="text-align: justify;">
 Realidade Virtual
+  </p>
+<p style="text-align: justify;">
 Refrão De Bolero
+  </p>
+<p style="text-align: justify;">
 Simples De Coração
+  </p>
+<p style="text-align: justify;">
 Sopa De Letrinhas
+  </p>
+<p style="text-align: justify;">
 Surfando Karmas & Dna
+  </p>
+<p style="text-align: justify;">
 Sweet Begônia
+  </p>
+<p style="text-align: justify;">
 Vagabundo (gira-mundo)
+  </p>
+<p style="text-align: justify;">
 Varias Variaveis
+  </p>
+<p style="text-align: justify;">
 Vida Real
+  </p>
+<p style="text-align: justify;">
