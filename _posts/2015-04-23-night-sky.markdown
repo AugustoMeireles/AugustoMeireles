@@ -1,6 +1,6 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
+title:  "Desafios da matemática"
+subtitle: "Apresentações e jogos"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
