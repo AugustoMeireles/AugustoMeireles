@@ -1,6 +1,6 @@
 ---
-title:  "Quebra cabeças são legais!!"
-subtitle: "Cubo mágico"
+title:  "Acauã"
+subtitle: "AeroDesign"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
