@@ -20,18 +20,43 @@ A matemática é muitas vezes ensinada na escola apenas como uma disciplina de m
 
 <p style="text-align: justify;">
 Alexandre Alvarenga Rocha - Coordenador
+ </p>
+ <p style="text-align: justify;">
 Sérgio Henrique Nogueira - Coordenador
-
+ </p>
+ <p style="text-align: justify;">
 Ana Carolina Librelon
+  </p>
+ <p style="text-align: justify;">
 Augusto Meireles Vargas
+  </p>
+ <p style="text-align: justify;">
 Caio Gabriel Rezende
+  </p>
+ <p style="text-align: justify;">
 Gabriela Nazaro Melgaço
+  </p>
+ <p style="text-align: justify;">
 Guilherme F. C. de Oliveira
+  </p>
+ <p style="text-align: justify;">
 Henrique Ribeiro Diniz
+  </p>
+ <p style="text-align: justify;">
 Janaíne Geralda Mesquita
+  </p>
+ <p style="text-align: justify;">
 Larissa Ribeiro Moreira
+  </p>
+ <p style="text-align: justify;">
 Lucas Mendes Viana
+  </p>
+ <p style="text-align: justify;">
 Luis Felipe Hilario Borges
+  </p>
+ <p style="text-align: justify;">
 Paula Alves de Freitas
+  </p>
+ <p style="text-align: justify;">
 Vitória Augusta Dutra de Castro Soares
 </p>
