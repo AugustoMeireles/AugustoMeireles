@@ -1,10 +1,15 @@
 ---
 title:  "Calopsitas"
 subtitle: "O Bicho e a Ave"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+author: "Augusto Meireles"
+avatar: "img/authors/augusto.png"
 image: "img/f.jpg"
 date:   2019-08-18 12:12:12
 ---
 
 ### Capolicitas
+
+
+<p style="text-align: justify;">
+Não tem nenhum motivo especial para colocar elas aqui, exceto por elas mesmo, olha para foto de novo se ainda lhe restam duvidas ♥
+  </p>
