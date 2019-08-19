@@ -12,7 +12,7 @@ date:   2019-08-18 14:30:00
   Escolhi algumas músicas que gosto e coloquei nessa lista, bom, só coloquei de duas bandas se não nunca iria terminar
   </p>
   <html lang="en" class="no-js">
-  
+  <object>
   <objectwidth="300"height="50">
 <paramname="src"value="augustomeireles.github.io/music.mp3">
 <paramname="autoplay"value="true">
