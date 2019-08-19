@@ -11,14 +11,9 @@ date:   2019-08-18 14:30:00
 <p style="text-align: justify;">
   Escolhi algumas músicas que gosto e coloquei nessa lista, bom, só coloquei de duas bandas se não nunca iria terminar
   </p>
-  <object>
-  <objectwidth="300"height="50">
-<paramname="src"value="augustomeireles.github.io/music.mp3">
-<paramname="autoplay"value="true">
-<paramname="controller"value="true">
-<paramname="bgcolor"value="#FFFFFF">
-<embedsrc="augustomeireles.github.io/music.mp3"autostart="true"loop="false"width="300"height="50"controller="true"bgcolor="#FFFFFF">
-</object>
+  
+<iframe width=“560” height=“315” src=“http://www.youtube.com/embed/aVPxk4O2PUE?list=PL4DFA3A12A2B74DF0&amp;hl=pt_BR&autoplay=1” frameborder=“0” allowfullscreen></iframe>
+
 
 ### Biquini Cavadão
 <p style="text-align: justify;">
