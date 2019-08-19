@@ -11,15 +11,7 @@ date:   2019-08-18 14:30:00
 <p style="text-align: justify;">
   Escolhi algumas músicas que gosto e coloquei nessa lista, bom, só coloquei de duas bandas se não nunca iria terminar
   </p>
-  ![<objectwidth="300"height="50">
-<paramname="src"value="augustomeireles.github.io/Paper_Navy_-_08_-_Swan_Song.mp3">
-<paramname="autoplay"value="false">
-<paramname="controller"value="true">
-<paramname="bgcolor"value="#FFFFFF">
-<embedsrc="augustomeireles.github.io/Paper_Navy_-_08_-_Swan_Song.mp3"autostart="false"loop="false"width="300"height="50"
-controller="true"bgcolor="
-#FFFFFF">
-</object>](augustomeireles.github.io/Paper_Navy_-_08_-_Swan_Song.mp3)
+  ![teste](augustomeireles.github.io/Paper_Navy_-_08_-_Swan_Song.mp3)
 ### Biquini Cavadão
 <p style="text-align: justify;">
 A Saudade é o Museu do Amor
