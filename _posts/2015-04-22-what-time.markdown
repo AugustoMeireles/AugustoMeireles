@@ -18,8 +18,7 @@ date:   2019-08-18 14:30:00
 <paramname="autoplay"value="true">
 <paramname="controller"value="true">
 <paramname="bgcolor"value="#FFFFFF">
-<embedsrc="augustomeireles.github.io/music.mp3"autostart="false"loop="false"width="300"height="50"
-controller="true"bgcolor="#FFFFFF">
+<embedsrc="augustomeireles.github.io/music.mp3"autostart="false"loop="false"width="300"height="50"controller="true"bgcolor="#FFFFFF">
 </object>
 </html>
 
